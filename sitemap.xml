@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/01/11/hello-world/</loc>
+    
+    <lastmod>2017-01-15T12:54:20.870Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/jiuketang/index.html</loc>
+    
+    <lastmod>2017-01-15T12:46:03.653Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2017-01-12T12:26:06.312Z</lastmod>
@@ -26,13 +40,6 @@
     <loc>http://yoursite.com/tage/index.html</loc>
     
     <lastmod>2017-01-12T12:07:57.954Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/01/11/hello-world/</loc>
-    
-    <lastmod>2017-01-11T13:09:45.289Z</lastmod>
     
   </url>
   
