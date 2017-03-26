@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-25T19:16:21.583Z</updated>
+  <updated>2017-03-26T10:15:01.784Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开心交友群</title>
+    <link href="http://yoursite.com/2017/03/26/kaixinqun/"/>
+    <id>http://yoursite.com/2017/03/26/kaixinqun/</id>
+    <published>2017-03-26T08:53:57.000Z</published>
+    <updated>2017-03-26T10:15:01.784Z</updated>
+    
+    <content type="html"><![CDATA[<p>开心交友群<br>群友们：<br>    这里每天公布话题，今晚话题是，我要吃喜糖啦，谁发喜糖，么么哒</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;开心交友群&lt;br&gt;群友们：&lt;br&gt;    这里每天公布话题，今晚话题是，我要吃喜糖啦，谁发喜糖，么么哒&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>力在自然</title>
